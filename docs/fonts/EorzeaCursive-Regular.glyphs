@@ -1,6 +1,9 @@
 {
 .appVersion = "3058";
 .formatVersion = 3;
+DisplayStrings = (
+a
+);
 date = "2021-04-08 15:50:16 +0000";
 familyName = EorzeaCursive;
 fontMaster = (
@@ -293,7 +296,7 @@ unicode = 90;
 },
 {
 glyphname = a;
-lastChange = "2021-04-06 05:50:45 +0000";
+lastChange = "2021-04-08 17:25:43 +0000";
 layers = (
 {
 layerId = m01;
@@ -373,9 +376,9 @@ nodes = (
 (473,20,o),
 (495,20,c),
 (706,18,o),
-(900,200,o),
-(900,200,c),
-(900,200,o),
+(800,200,o),
+(800,200,c),
+(800,200,o),
 (749,74,o),
 (515,53,c),
 (503,52,o),
@@ -468,7 +471,7 @@ nodes = (
 );
 }
 );
-width = 900;
+width = 800;
 }
 );
 unicode = 97;
